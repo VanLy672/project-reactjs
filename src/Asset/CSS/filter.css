@@ -1,0 +1,61 @@
+.filter{
+    width: 100%;
+    height: 10rem;
+    border: 1px solid black;
+    /* position: relative; */
+}
+
+
+.filter--search {
+    padding: 15px;
+    width: 100%;
+    height: auto;
+    /* background-color: brown;  */
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.select{
+    background-color: transparent;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 0 1em 0 0;
+    margin: 0;
+    width: 50%;
+    font-size: 20px;
+    text-align: center;
+}
+
+.select .option {
+    width: 100%;
+    height: 100%;
+    padding: 120px;
+    font-size: 18px; 
+    font-size: 20px;
+}
+
+.popular--search {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.popular--search--item {
+    width: 10%;
+    height: auto;
+    background-color: antiquewhite;
+    margin: 0 12px ;
+    padding: 10px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 18px;
+    
+}
+
+
+
+
+

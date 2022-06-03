@@ -1,0 +1,13 @@
+.flex {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.job--info {
+    width: 35%;
+    /* height: 100px; */
+    background-color: black;
+}
